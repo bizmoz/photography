@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://photography.rampatra.com"
+baseurl: "https://github.com/bizmoz/photography"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 
